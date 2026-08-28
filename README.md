@@ -83,4 +83,4 @@ libft/                  the libft functions this depends on
 
 ---
 
-<p align="center"><sub>🏫 Project from the <strong>42</strong> common core — School 42 Paris.</sub></p>
+<p align="center"><sub>🏫 Project from the <strong>42</strong> common core, School 42 Paris.</sub></p>
